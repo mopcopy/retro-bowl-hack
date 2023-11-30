@@ -20,5 +20,7 @@ Next, double-click on the "Value" side of the table currently in blue in the ima
 
 Once you're happy, hit enter, close devtools, and refresh the page. Have fun!
 
-<img src="https://i.postimg.cc/fRJKq9r7/Screenshot-2023-11-29-at-8-03-43-PM.png">
+Check the video below if you need help (i didn't use F12 in the video:
+
+[<video src="https://drive.google.com/file/d/1lcjH9ZsiCnl9h6NCKVLMnxFGD65ICWU2/view?usp=sharing">](https://drive.google.com/file/d/1lcjH9ZsiCnl9h6NCKVLMnxFGD65ICWU2/view?usp=sharing)https://drive.google.com/file/d/1lcjH9ZsiCnl9h6NCKVLMnxFGD65ICWU2/view?usp=sharing
 
