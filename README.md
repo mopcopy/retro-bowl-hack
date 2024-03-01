@@ -2,13 +2,13 @@
 A hack that allows you to get a large amount of coaching credits (WEB VERSIONS ONLY).
 
 ## Running it
-To run this hack, open developer console (F12) and run the code in main.js if you are on the main version, college.js for if you are on retro bowl college.
+To run this hack, open developer console (F12) and run the code in main.js if you are on the main version, college.js for if you are on retro bowl college. If not, you can type `javascript:` in the url bar and paste the code there and hiy enter.
 
 This is currently working across all Retro Bowl versions (tested on poki as well) EXCEPT for mobile. 
 
 This simple hack can also be expanded to give you draft picks, max facilities, and basically anything that is saved by Retro Bowl.
 
-NOTE: If you do not have access to console, there is no way for this to work. 
+NOTE: May not work for some websites. See alternative method for doing this on poki.
 
 ## Alternative (in case it doesn't work, still needs console, PLEASE CAREFULLY READ)
 
